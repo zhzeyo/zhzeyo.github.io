@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java线程池知识点整理"
-date: 2020-10-20 23:13:00 +0800
+date: 2020-10-21 11:53:00 +0800
 categories: java concurrent
 tags: computer learn interview java concurrent
 ---
