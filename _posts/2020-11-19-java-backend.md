@@ -30,6 +30,7 @@ tags: java backend learn interview
 ## MySQL
 1. [MySQL之MVVC原理](https://blog.csdn.net/huaishu/article/details/89924250)
 
+2. [五分钟搞清楚MySQL事务隔离级别](https://www.jianshu.com/p/4e3edbedb9a8)
 
 ## 分布式服务中间件
 
