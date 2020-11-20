@@ -6,33 +6,47 @@ categories: java backend
 tags: java backend learn interview
 ---
 
-# jvm
+## jvm
 
-# java集合
+## java集合
 
-# java IO
+## java IO
 
-# java并发
-[如何配置线程池](https://blog.csdn.net/u014203449/article/details/84891460)
+## java并发
+1. [如何配置线程池](https://blog.csdn.net/u014203449/article/details/84891460)
 
-# spring
+## spring
+1. [@Autowired注解的实现原理](https://juejin.cn/post/6844903957135884295)
 
-# 计算机网络
+2. [Spring启动过程（一）](https://juejin.cn/post/6844903601089806343)
 
-# 操作系统
+    
 
-# 数据库
 
-# 分布式服务中间件
+## 计算机网络
 
-## kafka
+## 操作系统
 
-## redis
+## MySQL
+1. [MySQL之MVVC原理](https://blog.csdn.net/huaishu/article/details/89924250)
 
-## es
 
-# 算法
-[快排基本思路](https://blog.csdn.net/code_ac/article/details/74158681)
+## 分布式服务中间件
 
-# 项目相关
-[protobuf原理](https://www.cnblogs.com/onlysun/articles/4569595.html)
+### kafka
+
+1. [Kafka为什么速度那么快？](https://juejin.cn/post/6844903840332922893)
+
+### redis
+
+1. 
+
+### es
+
+## 算法
+1. [快排基本思路](https://blog.csdn.net/code_ac/article/details/74158681)
+
+2. 
+
+## 项目相关
+1. [protobuf原理](https://www.cnblogs.com/onlysun/articles/4569595.html)
