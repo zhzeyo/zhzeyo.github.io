@@ -3,7 +3,7 @@ layout: post
 title: "java后端技术大全"
 date: 2020-11-19 20:50:00 +0800
 categories: java backend
-permalink: /:title
+permalink: "/:title"
 tags: java backend learn interview
 ---
 
@@ -53,5 +53,5 @@ tags: java backend learn interview
 ## 项目相关
 1. [protobuf原理](https://www.cnblogs.com/onlysun/articles/4569595.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDExMDUxM119
+eyJoaXN0b3J5IjpbMTc4MjU5Mjc5LC01MjAxMTA1MTNdfQ==
 -->
