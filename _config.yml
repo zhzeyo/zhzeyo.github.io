@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   share and progress
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zhzeyo
-github_username:  zhzeyo
+twitter_username: -
+github_username: -
 lang: zh-CN
 
 # Build settings
